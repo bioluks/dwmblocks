@@ -14,17 +14,18 @@ static const Block blocks[] = {
 	/* {"",	"sb-price eth Ethereum 🍸",	9000,	23}, */
 	/* {"",	"sb-price btc Bitcoin 💰",				9000,	21}, */
 	/* {"",	"sb-torrent",	20,	7}, */
-	{"",	"sb-memory",	10,	14},
 	/* {"",	"sb-cpu",		10,	18}, */
 	/* {"",	"sb-moonphase",	18000,	17}, */
 	/* {"",	"sb-forecast",	18000,	5}, */
 	/* {"",	"sb-mailbox",	180,	12}, */
+	{"",	"fanspeed",	5,	22},
 	{"",	"sb-nettraf",	1,	16},
 	{"",	"volume",	0,	10},
 	{"",	"battery",	5,	3},
-	{"",	"sb-clock",	60,	1},
 	{"",	"internet",	5,	4},
-	{"",	"sb-help-icon",	0,	15},
+	{"",	"memory",	10,	14},
+	{"",	"sb-clock",	1,	1},
+	/* {"",	"sb-help-icon",	0,	15}, */
 };
 
 //sets delimeter between status commands. NULL character ('\0') means no delimeter.
