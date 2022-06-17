@@ -21,9 +21,9 @@ static const Block blocks[] = {
 	{"",	"fanspeed",	5,	22},
 	{"",	"sb-nettraf",	1,	16},
 	{"",	"volume",	0,	10},
-	{"",	"battery",	5,	3},
 	{"",	"internet",	5,	4},
 	{"",	"memory",	10,	14},
+	{"",	"battery",	5,	3},
 	{"",	"sb-clock",	1,	1},
 	/* {"",	"sb-help-icon",	0,	15}, */
 };
